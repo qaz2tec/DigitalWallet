@@ -1,2 +1,4 @@
 # DigitalWallet
-This is a sample code for digitalwallet in solidity language
+
+This is a sample code for digitalwallet in solidity language.
+thanx
